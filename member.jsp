@@ -19,7 +19,7 @@
 	
 	function zipSearch() {
 		url = "zipSearch.jsp?search=n";
-		window.open(url, "우편번호검색", "width=500, height=300, top=100, left=100, scrollbars=yes");
+		window.open(url, "우편번호검색", "width=110, height=300, top=100, left=100, scrollbars=yes");
 	
 	}
 </script>
