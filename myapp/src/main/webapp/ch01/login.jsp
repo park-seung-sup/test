@@ -12,7 +12,7 @@
 			return;
 		}
 		if (document.loginFrm.pwd.value == "") {
-			alert("제발 살려줘ㅇㅇ");
+			alert("왜 안됨");
 			document.loginFrm.pwd.focus();
 			return;
 		}
