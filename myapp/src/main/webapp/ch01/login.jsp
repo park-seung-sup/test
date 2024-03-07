@@ -12,7 +12,7 @@
 			return;
 		}
 		if (document.loginFrm.pwd.value == "") {
-			alert("비밀번호를 입력해 해ㄴㄴㅇㅁ.");
+			alert("제발 살려줘요");
 			document.loginFrm.pwd.focus();
 			return;
 		}
